@@ -4,7 +4,7 @@ Homem de Ferro
 * Como criar um card com Html5, Css3, Flexbox, Transform e Transition
 
 #
-#Veja como ficou legal esse card
+Veja como ficou legal esse card
 #
 
 https://card-homemdeferro.netlify.app/
